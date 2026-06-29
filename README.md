@@ -2,7 +2,7 @@
 
 An interactive, data-driven decision tool designed to prevent profit margin erosion for fashion retailers. This project simulates a real-world enterprise analytics pipeline, converting transaction-level sales receipts into actionable product profiles using **SQL (DuckDB)** and surfacing real-time markdown recommendations via an interactive **Streamlit web dashboard**.
 
----
+
 
 ## 📈 Executive Summary & Business Case
 
@@ -10,7 +10,7 @@ In fashion retail, inventory stagnation is a multi-million dollar bottleneck. Ho
 
 This product serves as a **Merchandising Decision Support System**. It evaluates product performance based on the core retail KPI: **Sell-Through Rate (STR)**. By programmatically triggering rule-based, optimized discounts on underperforming clothing lines, it helps retailers maximize inventory turnover while aggressively protecting profit margins.
 
----
+
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -19,7 +19,7 @@ This product serves as a **Merchandising Decision Support System**. It evaluates
 - **Data Analytics & Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Data Source:** Ingests live transactional store data tracking variables like `stock_quantity`, `original_price`, `category`, and `purchase_date`.
 
----
+
 
 ## 🧠 Core Features & Analytics Pipeline
 
@@ -35,7 +35,7 @@ Built specifically to demonstrate product sense, users can manipulate parameters
 - **STR Slider:** Adjust the benchmark percentage defining "stagnant" inventory.
 - **Markdown Slider:** Control the promotional discount intensity applied to failing lines.
 
----
+
 
 ## 🚀 How to Run the App Locally
 
