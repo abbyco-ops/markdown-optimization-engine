@@ -2,10 +2,17 @@
 CREATE TABLE IF NOT EXISTS retail_inventory (
     product_id VARCHAR PRIMARY KEY,
     category VARCHAR,
+    brand VARCHAR,
+    season  VARCHAR,
+    color VARCHAR,
     original_price DECIMAL(10,2),
-    weeks_on_shelf INT,
-    initial_stock INT,
-    inventory_level INT
+    markdown_percentage DECIMAL(10,2),
+    current_price DECIMAL(10,2),
+    purchase_date DATE,
+    stock_quantity INT,
+    customer_rating DECIMAL(3,1),
+    is_returned BOOLEAN,
+    return_reason VARCHAR
 );
 
 -- Copy path directly from your exported CSV file
