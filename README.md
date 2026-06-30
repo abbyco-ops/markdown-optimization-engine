@@ -50,4 +50,9 @@ python3 -m streamlit run app.py
 ```
 
 ---
+
+## Data
+Kaggle: https://www.kaggle.com/datasets/pratyushpuri/retail-fashion-boutique-data-sales-analytics-2025
+
+
 📄 **License:** This project is open-source and available under the **MIT License**.
