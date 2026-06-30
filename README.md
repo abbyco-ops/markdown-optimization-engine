@@ -6,9 +6,9 @@ An interactive, data-driven decision tool designed to prevent profit margin eros
 
 ## 📈 Executive Summary & Business Case
 
-In fashion retail, inventory stagnation is a multi-million dollar bottleneck. Holding products at full price for too long ties up working capital and exhausts valuable warehouse shelf space. Conversely, premature or aggressive price slashing completely destroys gross margins. 
+In fashion retail, inventory stagnation is a multi-million dollar bottleneck. Holding products at full price for too long ties up working capital and exhausts valuable warehouse shelf space. Conversely, premature or aggressive price cuts can quickly undermine gross margins. 
 
-This product serves as a **Merchandising Decision Support System**. It evaluates product performance based on the core retail KPI: **Sell-Through Rate (STR)**. By programmatically triggering rule-based, optimized discounts on underperforming clothing lines, it helps retailers maximize inventory turnover while aggressively protecting profit margins.
+This product serves as a **Merchandising Decision Support System**. It evaluates product performance based on the core retail KPI: **Sell-Through Rate (STR)**. By triggering rule-based, optimized discounts on underperforming clothing lines, this tool helps retailers maximize inventory turnover while aggressively protecting profit margins.
 
 
 
