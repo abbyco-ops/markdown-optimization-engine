@@ -1,7 +1,5 @@
 # Ignore database and massive data files
 database.db
-fashion_boutique_dataset.csv
-*.csv
 *.numbers
 
 # Ignore python caches
