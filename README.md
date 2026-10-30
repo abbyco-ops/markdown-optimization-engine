@@ -17,7 +17,7 @@ This product serves as a **Merchandising Decision Support System**. It evaluates
 
 - **Data Engineering Engine:** DuckDB SQL (High-performance relational in-memory database)
 - **Visualization & Interface Layer:** Tableau (interactive dashboard with parameter-driven filtering)
-- **Data Analytics & Core Libraries:** Pandas, Pandas
+- **Data Analytics & Core Libraries:** Pandas, DuckDB
 - **Data Source:** Ingests live transactional store data tracking variables like `stock_quantity`, `original_price`, `category`, and `purchase_date`.
 
 
