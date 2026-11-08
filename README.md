@@ -2,7 +2,7 @@
 
 An interactive, data-driven decision tool designed to prevent profit margin erosion for fashion retailers. This project simulates a real-world enterprise analytics pipeline, converting transaction-level sales receipts into actionable product profiles using **SQL (DuckDB)** and surfacing real-time markdown recommendations via an interactive **Tableau Dashboard**.
 
-[View Tableau Dashboard Here!](https://public.tableau.com/views/Book1_17888969222580/FashionRetailMarkdownOptimizationModel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Tableau Dashboard Here!]([https://public.tableau.com/views/Book1_17888969222580/FashionRetailMarkdownOptimizationModel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/RetailMarkdownRiskDashboard/RetailMarkdownRiskDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ## Executive Summary & Business Case
